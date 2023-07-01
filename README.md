@@ -8,7 +8,7 @@ Medical research and diagnostics have witnessed substantial advancements with th
 
 ### Motivation
 
-The motivation behind this research is to overcome the challenges posed by the lack of human-friendly interpretability in existing machine learning algorithms for most of the medical domains. End-users, such as clinicians and patients, might exhibit greater interest in comprehending the real-world consequences of the ML model's predictions in their own context, rather than solely fixating on the intricacies of how the models reached those predictions. For instance, patients might not only desire to know if they are sick, but also seek advice on how to be healthy again. They are less concerned about understanding the decision-making process of either the clinician or the ML algorithm.
+The motivation behind this research is to address the challenges posed by the lack of human-friendly interpretability in existing machine learning algorithms across various medical domains. End-users, such as clinicians and patients, might exhibit greater interest in comprehending the real-world consequences of the ML model's predictions in their own context, rather than solely focusing on the technical details of how the predictions were generated. For instance, patients might not only desire to know if they are sick, but also seek advice on how to be healthy again. They are less concerned about understanding the decision-making process of either the clinician or the ML algorithm.
 
 
 ### Methodology
